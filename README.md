@@ -1,4 +1,4 @@
-# brisk-website
+# Vue - vuetify - vuetifyRtl - i18n
 
 ## Project setup
 ```
